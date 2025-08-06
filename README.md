@@ -33,7 +33,7 @@ Switch between Blue and Green themed modes via the sidebar
 ## Technologies Used
 - Streamlit
 
--Python Standard Libraries:
+- Python Standard Libraries:
 string, random, re
 
 - Custom CSS for UI theming
@@ -57,19 +57,21 @@ Make sure you have Python installed. Then, install Streamlit using pip:
 3. **Run the app:**
 
 Start the Streamlit server
- streamlit run app.py
+ ```bash
+  streamlit run app.py
+  ```
 
 This will open the application in your default web browser.
 
 ## File Structure
 
-
+```bash
  password-toolkit/
  │
  ├── app.py               # Main Streamlit application
  ├── README.md            # Project documentation
  └── requirements.txt     # (Optional) Python dependencies
-
+```
 
 ## Authors
 Abdullah Ikhlaq
