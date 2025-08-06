@@ -31,13 +31,12 @@ Checks password based on:
 Switch between Blue and Green themed modes via the sidebar
 
 ## Technologies Used
-Streamlit
+- Streamlit
 
-Python Standard Libraries:
-
+-Python Standard Libraries:
 string, random, re
 
-Custom CSS for UI theming
+- Custom CSS for UI theming
 
 ## Installation
 
@@ -46,18 +45,24 @@ Custom CSS for UI theming
   ```bash
     git clone https://github.com/Abdullah-Ikhlaq/password-toolkit.git
     cd password-toolkit
-    Install required packages:
+  ``` 
 
 2. **Install the required packages**
-Make sure you have Python installed. Then, install Streamlit using pip:
 
+Make sure you have Python installed. Then, install Streamlit using pip:
+  ```bash
    pip install streamlit
+  ```
 
 3. **Run the app:**
 
+Start the Streamlit server
  streamlit run app.py
 
+This will open the application in your default web browser.
+
 ## File Structure
+
 
  password-toolkit/
  │
