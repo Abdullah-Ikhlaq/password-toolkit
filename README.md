@@ -28,6 +28,7 @@ Checks password based on:
 - Password history panel to keep track of generated passwords
 
 **Light/Dark Theme Toggle**
+<br>
 Switch between Blue and Green themed modes via the sidebar
 
 ## Technologies Used
@@ -74,5 +75,6 @@ This will open the application in your default web browser.
 ```
 
 ## Authors
-Abdullah Ikhlaq
+Abdullah Ikhlaq 
+<br>
 Zain ul Abideen
